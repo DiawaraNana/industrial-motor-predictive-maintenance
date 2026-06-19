@@ -1,6 +1,6 @@
 # Industrial Motor Predictive Maintenance
 
-An AI-powered predictive maintenance system for industrial motors.
+Machine learning and Streamlit-based predictive maintenance system for industrial motors using vibration sensor data analysis.
 
 ## Project Overview
 
